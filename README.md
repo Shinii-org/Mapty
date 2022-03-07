@@ -1,6 +1,6 @@
 # Mapty
 
-## Ingreients
+## Ingredients
 
 - Pure JS, CSS, HTML.
 
